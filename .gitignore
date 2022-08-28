@@ -1,0 +1,5 @@
+practice_2/
+tempo/
+*.db
+.idea/
+__pycache__/
